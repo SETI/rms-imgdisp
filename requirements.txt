@@ -1,6 +1,12 @@
 coverage
+flake8
+mypy
+myst-parser
 matplotlib
 numpy
-Pillow
+pillow
 pytest
 scipy
+sphinx
+sphinxcontrib-napoleon
+sphinx-rtd-theme
